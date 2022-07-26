@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/3Dwebpage/static/css/main.66708c0e.chunk.css",
+    "main.js": "/3Dwebpage/static/js/main.08114c83.chunk.js",
+    "main.js.map": "/3Dwebpage/static/js/main.08114c83.chunk.js.map",
+    "runtime-main.js": "/3Dwebpage/static/js/runtime-main.878e2849.js",
+    "runtime-main.js.map": "/3Dwebpage/static/js/runtime-main.878e2849.js.map",
+    "static/js/2.57649c53.chunk.js": "/3Dwebpage/static/js/2.57649c53.chunk.js",
+    "static/js/2.57649c53.chunk.js.map": "/3Dwebpage/static/js/2.57649c53.chunk.js.map",
+    "static/js/3.5b6b0dbc.chunk.js": "/3Dwebpage/static/js/3.5b6b0dbc.chunk.js",
+    "static/js/3.5b6b0dbc.chunk.js.map": "/3Dwebpage/static/js/3.5b6b0dbc.chunk.js.map",
+    "index.html": "/3Dwebpage/index.html",
+    "static/css/main.66708c0e.chunk.css.map": "/3Dwebpage/static/css/main.66708c0e.chunk.css.map",
+    "static/js/2.57649c53.chunk.js.LICENSE.txt": "/3Dwebpage/static/js/2.57649c53.chunk.js.LICENSE.txt",
+    "static/media/icon-laptop.280f1892.svg": "/3Dwebpage/static/media/icon-laptop.280f1892.svg",
+    "static/media/icon-twitter.1f8af10d.svg": "/3Dwebpage/static/media/icon-twitter.1f8af10d.svg",
+    "static/media/icon-youtube.d6990689.svg": "/3Dwebpage/static/media/icon-youtube.d6990689.svg",
+    "static/media/logo.e258c777.svg": "/3Dwebpage/static/media/logo.e258c777.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.878e2849.js",
+    "static/js/2.57649c53.chunk.js",
+    "static/css/main.66708c0e.chunk.css",
+    "static/js/main.08114c83.chunk.js"
+  ]
+}
